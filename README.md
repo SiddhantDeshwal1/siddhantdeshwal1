@@ -19,25 +19,6 @@
 
 <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 
-WHO AM I?
-
-🔥 Someone who actually gets things done.
-
-  🔭 Currently working on: Automation & Data Science
-
-  🌱 Learning? Always, but I don’t waste time on useless stuff.
-
-
-🥅 2025 Goal: Landing on the MOON 🚀 (because Earth is too mainstream).
-
-💬 Ask me anything, and I’ll keep it real.
-
-👯 Open to collaboration if it’s worth the effort.
-
-⚡ Fun Fact: I use Linux, Vim, and automation to make my life easier. You should too.
-
-⚡ and Another one: I love experimenting with Linux and automation tools! 💻🔥
-
 <br>
 
 ### Languages and Tools: 
