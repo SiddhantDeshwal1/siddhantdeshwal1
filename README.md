@@ -24,18 +24,6 @@
 
 <img align="right" alt="Linux Ricer" width="400" src="https://raw.githubusercontent.com/gist/Samsar4/62886aac358c3d484a0ec17e8045a9af/raw/23a1b4dc9b9e3f78c87c47e4b4b3e34ad7e98cf0/tux-linux.gif">
 
-<!-- Option 1: Terminal Matrix Style -->
-
-<img align="right" alt="Linux Ricer" width="400" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-
-<!-- Option 2: Neovim Coding -->
-<img align="right" alt="Linux Ricer" width="400" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif">
-
-<!-- Option 3: Terminal Hacker -->
-<img align="right" alt="Linux Ricer" width="400" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif">
-
-<!-- Option 4: System Monitor -->
-<img align="right" alt="Linux Ricer" width="400" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif">
 ### 💻 Tech Arsenal
 
 ```python
