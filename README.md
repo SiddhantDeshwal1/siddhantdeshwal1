@@ -1,55 +1,149 @@
-  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
-<p>
-  <h1 align="center"><b>siddhantDeshwal (vi/vim)</b></h1>
-</p>
+<div align="center">
 
-<p>
-  <h4 align="center"><b><i>"howYouDoAnythingIsHowYouDoEverything"</i></b></h4>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Siddhant%20Deshwal&fontSize=42&fontColor=ebdbb2&animation=fadeIn&fontAlignY=32&desc=Competitive%20Programmer%20→%20Systems%20Engineer&descSize=16&descAlignY=51"/>
 
-<p align="center">
-<br>
-  
-<a href="https://www.linkedin.com/in/siddhant-deshwal-639948144/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:siddhantdeshwalwork@gmail.com@gmail.com?subject=Hello%20Sameer"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
-</p>
+</div>
+
+<div align="center">
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-1444-FABD2F?style=for-the-badge&logo=codeforces&logoColor=282828&labelColor=3c3836)](https://codeforces.com/profile/YOUR_CF_USERNAME)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1848-FB4934?style=for-the-badge&logo=leetcode&logoColor=282828&labelColor=3c3836)](https://leetcode.com/YOUR_LC_USERNAME)
+[![CodeChef](https://img.shields.io/badge/CodeChef-1759-8EC07C?style=for-the-badge&logo=codechef&logoColor=282828&labelColor=3c3836)](https://codechef.com/users/YOUR_CC_USERNAME)
+
+</div>
 
 <br>
 
-<img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-<br>
+### 🏆 Competitive Programming
+```yaml
+ACM ICPC: Amritapuri Regional Qualifier 2025
+Codeforces: Specialist (Max 1444, Top 11%)
+LeetCode: Knight (Max 1848, Top 5%) | 1100+ solved
+CodeChef: 3★ (Max 1759, Top 7%)
+```
 
-### Languages and Tools: 
+### 💻 Tech Arsenal
+```python
+class Engineer:
+    def __init__(self):
+        self.languages = ["C", "C++", "Python", "Java", "JavaScript"]
+        self.backend = ["Spring Boot", "Django", "FastAPI", "Node.js"]
+        self.devops = ["Linux", "Docker", "Redis", "Git"]
+        self.databases = ["PostgreSQL", "MongoDB", "SQL"]
+        self.focus = [
+            "Advanced Data Structures",
+            "System Design (LLD/HLD)",
+            "Distributed Systems",
+            "Operating Systems",
+            "Database Internals"
+        ]
+```
 
-<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<!-- <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<!--<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />-->
-<img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
-<br>
-<br>
-<br>
-<br>
+<br clear="right"/>
 
+---
 
+<div align="center">
 
-### Github Stats
+## 📊 GitHub Analytics
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=siddhantdeshwal1&&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sameer's Github Stats" width="60%">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantdeshwal1&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sameer's Top Languages">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=siddhantdeshwal1&show_icons=true&theme=gruvbox&hide_border=true&bg_color=1d2021&title_color=fabd2f&icon_color=fe8019&text_color=ebdbb2&border_radius=8" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhantdeshwal1&theme=gruvbox&hide_border=true&background=1d2021&stroke=504945&ring=fabd2f&fire=fe8019&currStreakLabel=ebdbb2&sideLabels=ebdbb2&currStreakNum=fabd2f&sideNums=fe8019&dates=928374&border_radius=8" />
 
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantdeshwal1&layout=compact&theme=gruvbox&hide_border=true&bg_color=1d2021&title_color=fabd2f&text_color=ebdbb2&border_radius=8&langs_count=8" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=siddhantdeshwal1&theme=gruvbox&bg_color=1d2021&color=ebdbb2&line=fabd2f&point=fe8019&area=true&hide_border=true&radius=8" />
 
+</div>
+
+---
+
+<div align="center">
+
+## 🏅 GitHub Trophies
+
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=siddhantdeshwal1&theme=gruvbox&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🛠️ Technology Stack
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/siddhantdeshwal1/siddhantdeshwal1/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/siddhantdeshwal1/siddhantdeshwal1/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/siddhantdeshwal1/siddhantdeshwal1/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+</div>
+
+---
+
+<div align="center">
+
+### 📈 Profile Stats
+
+![](https://komarev.com/ghpvc/?username=siddhantdeshwal1&label=Profile%20Views&color=fabd2f&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/siddhantdeshwal1?label=Followers&style=flat-square&color=fe8019&labelColor=3c3836)](https://github.com/siddhantdeshwal1)
+[![GitHub stars](https://img.shields.io/github/stars/siddhantdeshwal1?label=Stars&style=flat-square&color=8ec07c&labelColor=3c3836)](https://github.com/siddhantdeshwal1)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Code is liability. Architecture is leverage."*
+
+### ⚡ Fun Fact: I turn caffeine into competitive programming solutions! ☕→💻
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer"/>
