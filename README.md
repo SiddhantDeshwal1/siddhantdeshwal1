@@ -1,22 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:F5F5F5&height=200&section=header&text=Siddhant%20Deshwal&fontSize=70&fontColor=1d2021&animation=twinkling&fontAlignY=35&desc=Caffeine%20→%20Code%20→%20Performance&descSize=20&descAlignY=55&descColor=3c3836"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:F5F5F5&height=200&section=header&text=Siddhant%20Deshwal&fontSize=70&fontColor=1d2021&animation=twinkling&fontAlignY=35&desc=sudo%20chown%20world:me%20/&descSize=24&descAlignY=55&descColor=3c3836"/>
 
 </div>
 
 <div align="center">
 
 ### 👨‍💻 A nerdy soul obsessed with building, breaking, and optimizing tech — one pixel at a time.
-
-</div>
-
-<br>
-
-<div align="center">
-
-[![Codeforces](https://img.shields.io/badge/Codeforces-1444-FABD2F?style=for-the-badge&logo=codeforces&logoColor=282828&labelColor=3c3836)](https://codeforces.com/profile/YOUR_CF_USERNAME)
-[![LeetCode](https://img.shields.io/badge/LeetCode-1848-FB4934?style=for-the-badge&logo=leetcode&logoColor=282828&labelColor=3c3836)](https://leetcode.com/YOUR_LC_USERNAME)
-[![CodeChef](https://img.shields.io/badge/CodeChef-1759-8EC07C?style=for-the-badge&logo=codechef&logoColor=282828&labelColor=3c3836)](https://codechef.com/users/YOUR_CC_USERNAME)
 
 </div>
 
@@ -68,16 +58,6 @@ class LinuxRicer:
 
 <div align="center">
 
-## 🏅 GitHub Trophies
-
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=siddhantdeshwal1&theme=gruvbox&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"/>
-
-</div>
-
----
-
-<div align="center">
-
 ## 🛠️ Technology Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
@@ -119,18 +99,6 @@ class LinuxRicer:
 </div>
 
 ---
-
-<div align="center">
-
-### 📈 Profile Stats
-
-![](https://komarev.com/ghpvc/?username=siddhantdeshwal1&label=Profile%20Views&color=fabd2f&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/siddhantdeshwal1?label=Followers&style=flat-square&color=fe8019&labelColor=3c3836)](https://github.com/siddhantdeshwal1)
-[![GitHub stars](https://img.shields.io/github/stars/siddhantdeshwal1?label=Stars&style=flat-square&color=8ec07c&labelColor=3c3836)](https://github.com/siddhantdeshwal1)
-
-</div>
-
-<br>
 
 <div align="center">
 
