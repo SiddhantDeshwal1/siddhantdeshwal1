@@ -4,42 +4,9 @@
 
 </div>
 
-<div align="center">
-
-### 👨‍💻 A nerdy soul obsessed with building, breaking, and optimizing tech — one pixel at a time.
-
-</div>
-
 <br>
 
 <img align="right" alt="Linux Ricer" width="400" src="https://raw.githubusercontent.com/gist/Samsar4/62886aac358c3d484a0ec17e8045a9af/raw/23a1b4dc9b9e3f78c87c47e4b4b3e34ad7e98cf0/tux-linux.gif">
-
-### 💻 Tech Arsenal
-
-```python
-class LinuxRicer:
-    def __init__(self):
-        self.languages = ["C", "C++", "Python", "Java", "JavaScript"]
-        self.backend = ["Spring Boot", "Django", "FastAPI", "Node.js"]
-        self.devops = ["Linux", "Docker", "Redis", "Git"]
-        self.databases = ["PostgreSQL", "MongoDB", "SQL"]
-        self.obsessions = [
-            "Ricing Linux (every pixel matters)",
-            "Microsecond-level optimizations",
-            "System Design (LLD/HLD)",
-            "Distributed Systems",
-            "OS Internals & Performance Tuning"
-        ]
-```
-
-### 🏆 Some Trivial Wins (Not Impressed Yet)
-
-```yaml
-- Qualified: ACM ICPC 2025 Amritapuri Regional Contest
-- Codeforces: Specialist (Max 1444, Top 11%)
-- LeetCode: Knight (Max 1848, Top 5%) | 1100+ problems solved
-- CodeChef: 3★ (Max 1759, Top 7%)
-```
 
 <br clear="right"/>
 
@@ -89,6 +56,15 @@ class LinuxRicer:
 </div>
 
 ---
+
+### 🏆 Some Trivial Wins (Not Impressed Yet)
+
+```yaml
+- Qualified: ACM ICPC 2025 Amritapuri Regional Contest
+    - Codeforces: Specialist (Max 1444, Top 11%)
+- LeetCode: Knight (Max 1848, Top 5%) | 1100+ problems solved
+- CodeChef: 3★ (Max 1759, Top 7%)
+```
 
 <div align="center">
 
