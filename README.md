@@ -1,46 +1,3 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Siddhant%20Deshwal&fontSize=42&fontColor=ebdbb2&animation=fadeIn&fontAlignY=32&desc=Competitive%20Programmer%20→%20Systems%20Engineer&descSize=16&descAlignY=51"/>
-
-</div>
-
-<div align="center">
-
-[![Codeforces](https://img.shields.io/badge/Codeforces-1444-FABD2F?style=for-the-badge&logo=codeforces&logoColor=282828&labelColor=3c3836)](https://codeforces.com/profile/YOUR_CF_USERNAME)
-[![LeetCode](https://img.shields.io/badge/LeetCode-1848-FB4934?style=for-the-badge&logo=leetcode&logoColor=282828&labelColor=3c3836)](https://leetcode.com/YOUR_LC_USERNAME)
-[![CodeChef](https://img.shields.io/badge/CodeChef-1759-8EC07C?style=for-the-badge&logo=codechef&logoColor=282828&labelColor=3c3836)](https://codechef.com/users/YOUR_CC_USERNAME)
-
-</div>
-
-<br>
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-### 🏆 Competitive Programming
-```yaml
-ACM ICPC: Amritapuri Regional Qualifier 2025
-Codeforces: Specialist (Max 1444, Top 11%)
-LeetCode: Knight (Max 1848, Top 5%) | 1100+ solved
-CodeChef: 3★ (Max 1759, Top 7%)
-```
-
-### 💻 Tech Arsenal
-```python
-class Engineer:
-    def __init__(self):
-        self.languages = ["C", "C++", "Python", "Java", "JavaScript"]
-        self.backend = ["Spring Boot", "Django", "FastAPI", "Node.js"]
-        self.devops = ["Linux", "Docker", "Redis", "Git"]
-        self.databases = ["PostgreSQL", "MongoDB", "SQL"]
-        self.focus = [
-            "Advanced Data Structures",
-            "System Design (LLD/HLD)",
-            "Distributed Systems",
-            "Operating Systems",
-            "Database Internals"
-        ]
-```
-
 <br clear="right"/>
 
 ---
@@ -104,13 +61,9 @@ class Engineer:
 
 <div align="center">
 
-## 🎯 Contribution Activity
+## 🎯 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/siddhantdeshwal1/siddhantdeshwal1/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/siddhantdeshwal1/siddhantdeshwal1/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/siddhantdeshwal1/siddhantdeshwal1/output/github-contribution-grid-snake.svg">
-</picture>
+![Snake animation](https://raw.githubusercontent.com/SiddhantDeshwal1/siddhantdeshwal1/output/snake.svg)
 
 </div>
 
@@ -140,7 +93,7 @@ class Engineer:
 
 <div align="center">
 
-*"Code is liability. Architecture is leverage."*
+_"Code is liability. Architecture is leverage."_
 
 ### ⚡ Fun Fact: I turn caffeine into competitive programming solutions! ☕→💻
 
