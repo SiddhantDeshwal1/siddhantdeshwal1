@@ -1,3 +1,68 @@
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:F5F5F5&height=200&section=header&text=Siddhant%20Deshwal&fontSize=70&fontColor=1d2021&animation=twinkling&fontAlignY=35&desc=Caffeine%20→%20Code%20→%20Performance&descSize=20&descAlignY=55&descColor=3c3836"/>
+
+</div>
+
+<div align="center">
+
+### 👨‍💻 A nerdy soul obsessed with building, breaking, and optimizing tech — one pixel at a time.
+
+</div>
+
+<br>
+
+<div align="center">
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-1444-FABD2F?style=for-the-badge&logo=codeforces&logoColor=282828&labelColor=3c3836)](https://codeforces.com/profile/YOUR_CF_USERNAME)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1848-FB4934?style=for-the-badge&logo=leetcode&logoColor=282828&labelColor=3c3836)](https://leetcode.com/YOUR_LC_USERNAME)
+[![CodeChef](https://img.shields.io/badge/CodeChef-1759-8EC07C?style=for-the-badge&logo=codechef&logoColor=282828&labelColor=3c3836)](https://codechef.com/users/YOUR_CC_USERNAME)
+
+</div>
+
+<br>
+
+<img align="right" alt="Linux Ricer" width="400" src="https://raw.githubusercontent.com/gist/Samsar4/62886aac358c3d484a0ec17e8045a9af/raw/23a1b4dc9b9e3f78c87c47e4b4b3e34ad7e98cf0/tux-linux.gif">
+
+<!-- Option 1: Terminal Matrix Style -->
+
+<img align="right" alt="Linux Ricer" width="400" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
+<!-- Option 2: Neovim Coding -->
+<img align="right" alt="Linux Ricer" width="400" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif">
+
+<!-- Option 3: Terminal Hacker -->
+<img align="right" alt="Linux Ricer" width="400" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif">
+
+<!-- Option 4: System Monitor -->
+<img align="right" alt="Linux Ricer" width="400" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif">
+### 💻 Tech Arsenal
+
+```python
+class LinuxRicer:
+    def __init__(self):
+        self.languages = ["C", "C++", "Python", "Java", "JavaScript"]
+        self.backend = ["Spring Boot", "Django", "FastAPI", "Node.js"]
+        self.devops = ["Linux", "Docker", "Redis", "Git"]
+        self.databases = ["PostgreSQL", "MongoDB", "SQL"]
+        self.obsessions = [
+            "Ricing Linux (every pixel matters)",
+            "Microsecond-level optimizations",
+            "System Design (LLD/HLD)",
+            "Distributed Systems",
+            "OS Internals & Performance Tuning"
+        ]
+```
+
+### 🏆 Some Trivial Wins (Not Impressed Yet)
+
+```yaml
+- Qualified: ACM ICPC 2025 Amritapuri Regional Contest
+- Codeforces: Specialist (Max 1444, Top 11%)
+- LeetCode: Knight (Max 1848, Top 5%) | 1100+ problems solved
+- CodeChef: 3★ (Max 1759, Top 7%)
+```
+
 <br clear="right"/>
 
 ---
@@ -6,10 +71,7 @@
 
 ## 📊 GitHub Analytics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=siddhantdeshwal1&show_icons=true&theme=gruvbox&hide_border=true&bg_color=1d2021&title_color=fabd2f&icon_color=fe8019&text_color=ebdbb2&border_radius=8" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhantdeshwal1&theme=gruvbox&hide_border=true&background=1d2021&stroke=504945&ring=fabd2f&fire=fe8019&currStreakLabel=ebdbb2&sideLabels=ebdbb2&currStreakNum=fabd2f&sideNums=fe8019&dates=928374&border_radius=8" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantdeshwal1&layout=compact&theme=gruvbox&hide_border=true&bg_color=1d2021&title_color=fabd2f&text_color=ebdbb2&border_radius=8&langs_count=8" />
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=siddhantdeshwal1&theme=gruvbox&bg_color=1d2021&color=ebdbb2&line=fabd2f&point=fe8019&area=true&hide_border=true&radius=8" />
 
 </div>
@@ -46,10 +108,11 @@
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
@@ -71,16 +134,6 @@
 
 <div align="center">
 
-### 💭 Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-</div>
-
----
-
-<div align="center">
-
 ### 📈 Profile Stats
 
 ![](https://komarev.com/ghpvc/?username=siddhantdeshwal1&label=Profile%20Views&color=fabd2f&style=flat-square)
@@ -89,14 +142,10 @@
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-_"Code is liability. Architecture is leverage."_
-
-### ⚡ Fun Fact: I turn caffeine into competitive programming solutions! ☕→💻
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F5F5F5,100:FFFFFF&height=120&section=footer"/>
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer"/>
