@@ -61,8 +61,8 @@
 
 ```yaml
 - Qualified: ACM ICPC 2025 Amritapuri Regional Contest
-    - Codeforces: Specialist (Max 1444, Top 11%)
-- LeetCode: Knight (Max 1848, Top 5%) | 1100+ problems solved
+- Codeforces: Specialist (Max 1444, Top 11%)
+- LeetCode: Knight (Max 1848, Top 5%) | 1200+ problems solved
 - CodeChef: 3★ (Max 1759, Top 7%)
 ```
 
